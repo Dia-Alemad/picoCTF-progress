@@ -8,7 +8,12 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 |---|---|
 | Challenges solved | 25 |
 | Total points | 1530 |
-| Categories started | 6 / 6 |
+| Easy solved | 18 |
+| Easy points | 1030 |
+| Medium solved | 7 |
+| Medium points | 500 |
+| Hard solved | 0 |
+| Hard points | 0 |
 
 ## Categories
 
