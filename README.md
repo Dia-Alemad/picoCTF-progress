@@ -4,16 +4,18 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 ## Overall Stats
 
-| Metric | Value |
+| Challenges Solved | Total Points |
 |---|---|
-| Challenges solved | 25 |
-| Total points | 1530 |
-| Easy solved | 18 |
-| Easy points | 1030 |
-| Medium solved | 7 |
-| Medium points | 500 |
-| Hard solved | 0 |
-| Hard points | 0 |
+| 25 | 1530 |
+
+### By Difficulty
+
+| Difficulty | Solved | Points |
+|---|---|---|
+| Easy | 18 | 1030 |
+| Medium | 7 | 500 |
+| Hard | 0 | 0 |
+| **Total** | **25** | **1530** |
 
 ## Categories
 
