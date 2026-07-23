@@ -6,9 +6,9 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 | Metric | Value |
 |---|---|
-| Challenges solved | 23 |
-| Total points | 1455 |
-| Easy solved | 18 |
+| Challenges solved | 25 |
+| Total points | 1505 |
+| Easy solved | 20 |
 | Medium solved | 5 |
 | Hard solved | 0 |
 | Current streak | 0 |
@@ -40,6 +40,8 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 | 21 | First Find | Easy | 100 | Solved | |
 | 22 | Static ain't always noise | Easy | 20 | Solved | |
 | 23 | plumbing | Medium | 200 | Solved | Pipe and grep |
+| 24 | fixme1.py | Easy | 25 | Solved | Focus on Spaces in Python Syntax |
+| 25 | fixme2.py | Easy | 25 | Solved | Python Syntax |
 
 ## Notes & Techniques
 
@@ -47,4 +49,4 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 ## Last Updated
 
-**2026-07-22** — Logged First Find (Easy, 100 pts), Static ain't always noise (Easy, 20 pts), and plumbing (Medium, 200 pts); category total now 23 solved / 1455 points.
+**2026-07-23** — Logged fixme1.py and fixme2.py (Easy, 25 pts each); category total now 25 solved / 1505 points.

@@ -6,10 +6,10 @@ Challenges involving disassembly, decompilation, and understanding program logic
 
 | Metric | Value |
 |---|---|
-| Challenges solved | 2 |
-| Total points | 80 |
+| Challenges solved | 3 |
+| Total points | 180 |
 | Easy solved | 1 |
-| Medium solved | 1 |
+| Medium solved | 2 |
 | Hard solved | 0 |
 | Current streak | 0 |
 
@@ -19,6 +19,7 @@ Challenges involving disassembly, decompilation, and understanding program logic
 |---|-----------|------------|--------|--------|-------|
 | 1 | vault-door-training | Easy | 50 | Solved | |
 | 2 | keygenme-py | Medium | 30 | Solved | |
+| 3 | vault-door-1 | Medium | 100 | Solved | CharAt method |
 
 ## Notes & Techniques
 
@@ -26,4 +27,4 @@ Challenges involving disassembly, decompilation, and understanding program logic
 
 ## Last Updated
 
-**2026-07-21** — Logged keygenme-py (Medium, 30 pts); category total now 2 solved / 80 points.
+**2026-07-23** — Logged vault-door-1 (Medium, 100 pts); category total now 3 solved / 180 points.
