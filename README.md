@@ -6,16 +6,16 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 | Challenges Solved | Total Points |
 |---|---|
-| 33 | 2045 |
+| 37 | 3145 |
 
 ### By Difficulty
 
 | Difficulty | Solved | Points |
 |---|---|---|
 | Easy | 24 | 1245 |
-| Medium | 9 | 800 |
+| Medium | 13 | 1900 |
 | Hard | 0 | 0 |
-| **Total** | **33** | **2045** |
+| **Total** | **37** | **3145** |
 
 ## Categories
 
@@ -26,7 +26,7 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 | Web Exploitation | 2 | 150 | [Web-Exploitation/](Web-Exploitation/README.md) |
 | Forensics | 1 | 100 | [Forensics/](Forensics/README.md) |
 | Binary Exploitation | 1 | 100 | [Binary-Exploitation/](Binary-Exploitation/README.md) |
-| Reverse Engineering | 3 | 180 | [Reverse-Engineering/](Reverse-Engineering/README.md) |
+| Reverse Engineering | 7 | 1280 | [Reverse-Engineering/](Reverse-Engineering/README.md) |
 
 ## Finished Libraries / Paths
 
@@ -37,4 +37,4 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 ## Last Updated
 
-**2026-07-23** — Logged fixme1.py, fixme2.py (General Skills) and vault-door-1 (Reverse Engineering); marked PW Crack Series completed; overall total now 33 solved / 2045 points.
+**2026-07-25** — Logged vault-door-3, vault-door-4, vault-door-5, vault-door-6 (Reverse Engineering); overall total now 37 solved / 3145 points.
