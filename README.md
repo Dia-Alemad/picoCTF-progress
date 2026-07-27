@@ -6,23 +6,23 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 | Challenges Solved | Total Points |
 |---|---|
-| 37 | 3145 |
+| 39 | 3295 |
 
 ### By Difficulty
 
 | Difficulty | Solved | Points |
 |---|---|---|
-| Easy | 24 | 1245 |
-| Medium | 13 | 1900 |
+| Easy | 25 | 1295 |
+| Medium | 14 | 2000 |
 | Hard | 0 | 0 |
-| **Total** | **37** | **3145** |
+| **Total** | **39** | **3295** |
 
 ## Categories
 
 | Category | Solved | Points | Link |
 |---|---|---|---|
 | General Skills | 25 | 1505 | [General-Skills/](General-Skills/README.md) |
-| Cryptography | 1 | 10 | [Cryptography/](Cryptography/README.md) |
+| Cryptography | 3 | 160 | [Cryptography/](Cryptography/README.md) |
 | Web Exploitation | 2 | 150 | [Web-Exploitation/](Web-Exploitation/README.md) |
 | Forensics | 1 | 100 | [Forensics/](Forensics/README.md) |
 | Binary Exploitation | 1 | 100 | [Binary-Exploitation/](Binary-Exploitation/README.md) |
@@ -37,4 +37,4 @@ Personal repo for tracking my progress through picoCTF challenges, organized by 
 
 ## Last Updated
 
-**2026-07-25** — Logged vault-door-3, vault-door-4, vault-door-5, vault-door-6 (Reverse Engineering); overall total now 37 solved / 3145 points.
+**2026-07-28** — Logged caesar and Base64 Explanation (Cryptography); overall total now 39 solved / 3295 points.
