@@ -6,10 +6,10 @@ Challenges involving encoding, ciphers, hashing, and breaking or implementing cr
 
 | Metric | Value |
 |---|---|
-| Challenges solved | 3 |
-| Total points | 160 |
+| Challenges solved | 7 |
+| Total points | 520 |
 | Easy solved | 2 |
-| Medium solved | 1 |
+| Medium solved | 5 |
 | Hard solved | 0 |
 | Current streak | 0 |
 
@@ -20,6 +20,10 @@ Challenges involving encoding, ciphers, hashing, and breaking or implementing cr
 | 1 | Mod 26 | Easy | 10 | Solved | |
 | 2 | caesar | Medium | 100 | Solved | Caesar cipher |
 | 3 | Base64 Explanation | Easy | 50 | Solved | Base64 |
+| 4 | New Caesar | Medium | 60 | Solved | |
+| 5 | substitution0 | Medium | 100 | Solved | |
+| 6 | Substitution1 | Medium | 100 | Solved | |
+| 7 | Substitution2 | Medium | 100 | Solved | |
 
 ## Notes & Techniques
 
@@ -27,4 +31,4 @@ Challenges involving encoding, ciphers, hashing, and breaking or implementing cr
 
 ## Last Updated
 
-**2026-07-28** — Logged caesar (Medium, 100 pts) and Base64 Explanation (Easy, 50 pts); category total now 3 solved / 160 points.
+**2026-08-05** — Logged New Caesar (Medium, 60 pts), substitution0, Substitution1, and Substitution2 (Medium, 100 pts each); category total now 7 solved / 520 points.

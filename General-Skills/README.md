@@ -6,9 +6,9 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 | Metric | Value |
 |---|---|
-| Challenges solved | 25 |
-| Total points | 1505 |
-| Easy solved | 20 |
+| Challenges solved | 27 |
+| Total points | 1655 |
+| Easy solved | 22 |
 | Medium solved | 5 |
 | Hard solved | 0 |
 | Current streak | 0 |
@@ -42,6 +42,8 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 | 23 | plumbing | Medium | 200 | Solved | Pipe and grep |
 | 24 | fixme1.py | Easy | 25 | Solved | Focus on Spaces in Python Syntax |
 | 25 | fixme2.py | Easy | 25 | Solved | Python Syntax |
+| 26 | undo | Easy | 100 | Solved | How to modify text from the terminal. |
+| 27 | MY GIT | Easy | 50 | Solved | Setting identity for git from the terminal |
 
 ## Notes & Techniques
 
@@ -49,4 +51,4 @@ Challenges focused on basic tooling, command line, and general problem-solving s
 
 ## Last Updated
 
-**2026-07-23** — Logged fixme1.py and fixme2.py (Easy, 25 pts each); category total now 25 solved / 1505 points.
+**2026-08-05** — Logged undo and MY GIT (Easy, 100 and 50 pts); category total now 27 solved / 1655 points.
